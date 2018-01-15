@@ -1,0 +1,27 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Learning Front End",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c12mbg/FrontEnd.git"
+  },
+  "keywords": [
+    "Learning",
+    "Front",
+    "End"
+  ],
+  "author": "Maximilian.Bagling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c12mbg/FrontEnd/issues"
+  },
+  "homepage": "https://github.com/c12mbg/FrontEnd#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
